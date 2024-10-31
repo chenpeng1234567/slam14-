@@ -1,0 +1,5 @@
+/home/cp/code/slam-learn/ch2/build/CMakeFiles/edit_cache.dir
+/home/cp/code/slam-learn/ch2/build/CMakeFiles/rebuild_cache.dir
+/home/cp/code/slam-learn/ch2/build/CMakeFiles/uselibhello.dir
+/home/cp/code/slam-learn/ch2/build/CMakeFiles/slamhello.dir
+/home/cp/code/slam-learn/ch2/build/CMakeFiles/libhello.dir

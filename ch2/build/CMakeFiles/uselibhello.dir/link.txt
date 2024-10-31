@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/uselibhello.dir/uselibhello.cpp.o  -o uselibhello liblibhello.a 
